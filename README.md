@@ -9,7 +9,7 @@ git clone https://github.com/your-username/vendor-management-system.git
 
 2. Navigate to the project directory:
 
-cd vendor-management-system
+cd vendor_management-main
 
 3. Create a virtual environment (optional but recommended):
 
